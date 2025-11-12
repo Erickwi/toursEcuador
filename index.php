@@ -75,7 +75,7 @@ https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js
 </div>
     <div class="portada">
       <div class="encabezado">
-        <img src="img/FotoJet.jpg">
+        <img src="img/quilotoa_principal.jpeg">
         <div class="text-overlay frase_tours_ecuador w3-mobile w3-center">
           Vive y viaja mientras puedas
         </div>
