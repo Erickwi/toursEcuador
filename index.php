@@ -83,7 +83,7 @@ https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js
       <div class="indexportada">
         <div id="primera-portada" class="w3-hide-small w3-hide-medium">
           <figure class="c4-izmir c4-gradient-bottom c4-image-zoom-in">
-            <img src="img/uno.jpg">
+            <img src="img/viaja_img.jpg">
             <figcaption class="c4-layout-bottom-center">
               <div class="c4-fade-up viaja">
                 <h3>Viaja</h3>
@@ -93,7 +93,7 @@ https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js
         </div>
         <div id="segunda-portada">
           <figure class="c4-izmir c4-gradient-bottom c4-image-zoom-in">
-            <img src="img/cinco.jpg">
+            <img src="img/explora_img.jpg">
             <figcaption class="c4-layout-bottom-center">
               <div class="c4-fade-up explora">
                 <h3>
@@ -105,7 +105,7 @@ https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js
         </div>
         <div id="tercera-portada" class="w3-hide-small w3-hide-medium">
           <figure class="c4-izmir c4-gradient-bottom c4-image-zoom-in">
-            <img src="img/dos.jpg">
+            <img src="img/quito_principal.jpeg">
             <figcaption class="c4-layout-bottom-center">
               <div class="c4-fade-up descubre">
                 <h3>
