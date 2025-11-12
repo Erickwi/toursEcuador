@@ -13,7 +13,7 @@
           <p >Tours <i class="fa-solid fa-chevron-up"></i></p>
           <div class="tours-destinos-nav">
             <a href="tours.php"><p class="todo-tours todosLosTours">Todos los tours</p></a>
-            <a href="php/tours-privados.php"><p class="privado-tours guianzaToursPrivados">Tours privados y Guianzas</p></a>
+            <a href="tours-privados.php"><p class="privado-tours guianzaToursPrivados">Tours privados y Guianzas</p></a>
           </div>
         </div>
         <div id="acerca">
